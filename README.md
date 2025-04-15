@@ -18,7 +18,7 @@ This project aims to develop a JavaFX-based desktop application to simulate a di
 
 ### ✅ Phase 0: Setup
 
-- ✅ Clone or create your NetBeans JavaFX project
+- [x] Clone or create your NetBeans JavaFX project
 - [ ] Import the `IPC2025.jar` into the project
 - [ ] Place provided resources in `/resources/`
   - `carta_nautica.jpg`
